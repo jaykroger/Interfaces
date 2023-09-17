@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78d5ca4a-f717-4f16-8083-6b73fbe8ea70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortLister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortWordFilter.java" afterDir="false" />
+    <list default="true" id="78d5ca4a-f717-4f16-8083-6b73fbe8ea70" name="Changes" comment="Finished ShortWordFilter.java and ShortLister.java, tested functionality">
+      <change afterPath="$PROJECT_DIR$/src/BigRecLister.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BigRectangleFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BigRectangleFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,37 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Workflow" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -53,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1694898566842</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished ShortWordFilter.java and ShortLister.java, tested functionality">
+      <created>1694906506117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694906506117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished ShortWordFilter.java and ShortLister.java, tested functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished ShortWordFilter.java and ShortLister.java, tested functionality" />
   </component>
 </project>
